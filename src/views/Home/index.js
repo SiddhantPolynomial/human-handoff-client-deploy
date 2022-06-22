@@ -61,7 +61,11 @@ const Home = () => {
     const onCloseModal = () => setOpen(false);
     const imageInput = useRef(null)
     const docInput = useRef(null)
-    const endpoint=process.env.handoffServer||"http://localhost:5000/"
+    // const endpoint=process.env.handoffServer||"http://localhost:5000/"
+    // var socket = io.connect('localhost:3000', {
+    //     'path': '/path/to/socket.io';
+    //   });
+    const endpoint=process.env.handoffServer||"https://lenskits.polynomial.ai/humanhandoffBackend/"
     useEffect(() => {
         global.socket1=io(endpoint,{query: {type: 'client'}})
         global.socket1.emit("howdy","hello from human-handoff-client")
