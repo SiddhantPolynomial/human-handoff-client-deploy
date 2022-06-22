@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1098" viewBox="0 0 1920 1098">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.421" cy="0.205" r="1.599" gradientTransform="translate(0.214) scale(0.571 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.18" stop-color="#fafbfb"/>
+      <stop offset="0.373" stop-color="#edeff1"/>
+      <stop offset="0.573" stop-color="#d8dce0"/>
+      <stop offset="0.723" stop-color="#c3c9cf"/>
+      <stop offset="0.744" stop-color="#cacfd4"/>
+      <stop offset="0.847" stop-color="#e6e9eb"/>
+      <stop offset="0.936" stop-color="#f8f9f9"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1502" data-name="Rectangle 1502" width="1920" height="1098" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-3" cx="0.414" cy="0.202" r="0.438" gradientTransform="translate(0.139) scale(0.721 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#757b80"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="0.158" cy="0.45" r="0.506" gradientTransform="translate(-0.091) scale(1.181 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0f0f0f"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="0.292" cy="0.282" r="0.499" gradientTransform="matrix(-0.759, 0.505, -0.444, -0.863, -2.231, -8.18)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-6" cx="0.375" cy="0.04" r="0.725" gradientTransform="matrix(-0.569, 0.1, -0.057, -0.995, -1.468, -14.344)" xlink:href="#radial-gradient-4"/>
+    <radialGradient id="radial-gradient-7" cx="0.306" cy="0.426" r="0.353" gradientTransform="matrix(0.798, -0.707, 0.798, 0.707, -0.908, -1.753)" xlink:href="#radial-gradient-3"/>
+    <radialGradient id="radial-gradient-8" cx="0.306" cy="0.426" r="0.353" gradientTransform="matrix(0.798, -0.707, 0.798, 0.707, -0.937, -1.811)" xlink:href="#radial-gradient-3"/>
+  </defs>
+  <g id="Group_7473" data-name="Group 7473" transform="translate(0.002 0.287)">
+    <g id="Group_7472" data-name="Group 7472" transform="translate(-0.002 -0.287)">
+      <rect id="Rectangle_1501" data-name="Rectangle 1501" width="1920" height="1098" transform="translate(0 0)" fill="url(#radial-gradient)"/>
+      <g id="Group_7471" data-name="Group 7471" transform="translate(0)" clip-path="url(#clip-path)">
+        <path id="Path_7943" data-name="Path 7943" d="M1830.949,44.546S1060.642,1110.464-77.985,556.5L544.167,1751.9,2289.345,843.619Z" transform="translate(-219.096 125.446)" fill="url(#radial-gradient-3)" style="mix-blend-mode: color-burn;isolation: isolate"/>
+        <path id="Path_7944" data-name="Path 7944" d="M606.613-11.5s501.058,807.74-362.834,1326.07H1388.436V-37.417Z" transform="translate(684.905 -104.83)" fill="url(#radial-gradient-4)" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_7945" data-name="Path 7945" d="M2084.849-114.137S1371.494,1285.613,84.376,1336.844L885.2,2154.717,2665.968,411.062Z" transform="translate(237.06 -320.377)" fill="url(#radial-gradient-5)" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_7946" data-name="Path 7946" d="M2376.882,122.323S1145.349,1097.769-46.154,608.265l387.417,1077.1L2686.448,841.831Z" transform="translate(-129.667 343.962)" fill="url(#radial-gradient-6)" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+        <path id="Path_7947" data-name="Path 7947" d="M1199.844-109.377s209.028,1298.406-987.82,1711.822L1497.234,2007.8,2089.008,131.518Z" transform="translate(595.689 -307.003)" fill="url(#radial-gradient-7)" style="mix-blend-mode: color-burn;isolation: isolate"/>
+        <path id="Path_7948" data-name="Path 7948" d="M1231.308-60.9S1440.333,1237.5,243.489,1650.917l1285.2,405.352L2120.469,179.994Z" transform="translate(684.091 -170.82)" fill="url(#radial-gradient-8)" style="mix-blend-mode: color-burn;isolation: isolate"/>
+      </g>
+    </g>
+  </g>
+</svg>

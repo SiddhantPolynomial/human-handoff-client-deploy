@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="64" viewBox="0 0 100 64">
+  <defs>
+    <clipPath id="clip-View_all_agent">
+      <rect width="100" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="View_all_agent" data-name="View all agent" clip-path="url(#clip-View_all_agent)">
+    <rect width="100" height="64" fill="#fff"/>
+    <g id="_2-squares" data-name="2-squares">
+      <path id="Path_7731" data-name="Path 7731" d="M96.394,86.986H35.761a3.61,3.61,0,0,0-3.606,3.606v15.8H3.606A3.61,3.61,0,0,0,0,110v36.773a3.61,3.61,0,0,0,3.606,3.607H64.239a3.609,3.609,0,0,0,3.606-3.607v-15.8H96.394A3.61,3.61,0,0,0,100,127.366V90.592A3.612,3.612,0,0,0,96.394,86.986Zm-32.086,59.79a.07.07,0,0,1-.07.07l-60.7-.07.07-36.842,60.7.069Zm32.153-19.41a.069.069,0,0,1-.07.069L67.844,127.4V110a3.611,3.611,0,0,0-3.607-3.606H35.73l.03-15.874,60.7.07v36.773Z" transform="translate(0 -86.986)" fill="#f2006c"/>
+    </g>
+  </g>
+</svg>

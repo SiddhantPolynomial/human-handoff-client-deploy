@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="85" viewBox="0 0 100 85">
+  <defs>
+    <clipPath id="clip-Dashboard">
+      <rect width="100" height="85"/>
+    </clipPath>
+  </defs>
+  <g id="Dashboard" clip-path="url(#clip-Dashboard)">
+    <g id="bar-chart" transform="translate(2 1.239)">
+      <g id="Group_6957" data-name="Group 6957" transform="translate(0 0)">
+        <g id="Group_6956" data-name="Group 6956">
+          <path id="Path_7869" data-name="Path 7869" d="M93.8,114.38H89.484v-54.6a6.583,6.583,0,0,0-6.576-6.576h-11a6.583,6.583,0,0,0-6.576,6.576v54.6H60.39v-70.2a6.583,6.583,0,0,0-6.576-6.576h-11a6.583,6.583,0,0,0-6.576,6.576v70.2H31.371V74.932A6.583,6.583,0,0,0,24.8,68.356h-11a6.583,6.583,0,0,0-6.576,6.576V114.38H2.831a2.831,2.831,0,1,0,0,5.663H93.8a2.831,2.831,0,1,0,0-5.663Zm-68.093,0H12.886V74.932a.914.914,0,0,1,.913-.913h11a.914.914,0,0,1,.913.913V114.38Zm29.019,0H41.9v-70.2a.914.914,0,0,1,.913-.913h11a.914.914,0,0,1,.913.913Zm29.094,0H71v-54.6a.914.914,0,0,1,.913-.913h11a.914.914,0,0,1,.913.913v54.6Z" transform="translate(0 -37.605)" fill="#fff" stroke="#3a3a3a" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
